@@ -1,6 +1,6 @@
 To use:
 
-    from pycolor import colortext
+    from pycolor import color_text
 
 Arguements:
 
